@@ -4,5 +4,7 @@ Testing git!!
 Testing git!!
 Testing git!!
 Testing git!!
-Testing git!!
-Testing git!!
+Added 2 lines excluding this one!
+	- One line here!
+	- Second line here!
+
